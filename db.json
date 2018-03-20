@@ -1,6 +1,5 @@
 {
-    [
-    "ErrorCode": 0,
+    "ErrorCode": "0",
     "Data": [
         {
             "id": 1,
@@ -14,5 +13,4 @@
         }
     ],
     "Message": "Success"
-    ]
 }
