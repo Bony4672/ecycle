@@ -1,5 +1,7 @@
 {
-    "ErrorCode": [0],
+    user: [
+        {
+    "ErrorCode": 0,
     
     "Data": [
         {
@@ -12,7 +14,8 @@
             "username": "Bony",
             "password": "Bony"
         }
-    ]
-    
-    
+    ],
+    "Message": "Success" 
+        }
+        ]
 }
