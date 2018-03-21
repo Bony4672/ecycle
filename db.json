@@ -1,6 +1,6 @@
 {
 "user": 
-    [
+    {
     "ErrorCode": 0,
     "Data": [
         {
@@ -15,5 +15,5 @@
         }
     ],
     "Message": "Success"
-    ]
+    }
 }
