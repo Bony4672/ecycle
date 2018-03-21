@@ -1,8 +1,4 @@
 {
-    "user": [
-        {
-    "ErrorCode": 0,
-    
     "Data": [
         {
             "id": 1,
@@ -14,8 +10,5 @@
             "username": "Bony",
             "password": "Bony"
         }
-    ],
-    "Message": "Success" 
-        }
-        ]
+    ]
 }
