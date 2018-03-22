@@ -2,11 +2,13 @@
     "user": [
         {
             "id": 1,
+            "status": 1,
             "username": "Admin",
             "password": "Admin"
         },
         {
             "id": 2,
+            "status": 1,
             "username": "Bony",
             "password": "Bony"
         }
